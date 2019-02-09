@@ -1,2 +1,6 @@
 neshto si random
+<<<<<<< HEAD
 promeneno s bash
+=======
+promeneno s nurka
+>>>>>>> 8119d4a2b4e14dee3620fb5994b20d0f99c24f93
