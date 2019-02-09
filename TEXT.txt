@@ -1,1 +1,2 @@
 neshto si random
+promeneno s bash
